@@ -7,3 +7,5 @@ eureka-service - Service Registry for registering all microservices
 
 Architecture Diagram:
 
+https://github.com/Nawin-raj/stock-price-viewer-microservices/blob/master/Architecture.png
+
